@@ -12,3 +12,4 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
 # Hardhat-Fund-Me-Solidity
+# Hardhat-Fund-Me-SmartContracts
